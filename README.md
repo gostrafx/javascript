@@ -3,7 +3,8 @@
 - Javascript
   - https://github.com/getify/You-Dont-Know-JS
   - https://github.com/getify/Functional-Light-JS
-  - https://github.com/airbnb/javascript 
+  - https://github.com/airbnb/javascript
+  - https://github.com/lukehoban/es6features
   - https://github.com/nas5w/javascript-tips-and-tidbits
   - https://github.com/loverajoel/jstips
   - https://esdiscuss.org/
