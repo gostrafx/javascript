@@ -14,3 +14,6 @@
 
 - NodeJs
   - https://github.com/goldbergyoni/nodebestpractices
+  
+- Typescript
+  - https://github.com/labs42io/clean-code-typescript 
