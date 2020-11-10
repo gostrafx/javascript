@@ -11,6 +11,7 @@
   - https://github.com/ryanmcdermott/clean-code-javascript
   - https://github.com/melanieseltzer/es6-all-the-things
   - http://es6-features.org
+  - https://jskatas.org
 
 - NodeJs
   - https://github.com/goldbergyoni/nodebestpractices
