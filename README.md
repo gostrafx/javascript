@@ -12,6 +12,7 @@
   - https://github.com/melanieseltzer/es6-all-the-things
   - http://es6-features.org
   - https://jskatas.org
+  - https://javascript.info/
 
 - NodeJs
   - https://github.com/goldbergyoni/nodebestpractices
